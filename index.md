@@ -7,7 +7,3 @@ Das hier ist eine generische Beschreibung eines Charakters. Lorem ipsum dolor si
  * Element 2a
  * Element 2b
 * Element 3
-
-As my character said:
-> Lorem Ipsum
-> bla bla bla blubb.
