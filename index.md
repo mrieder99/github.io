@@ -11,3 +11,5 @@ Das hier ist eine generische Beschreibung eines Charakters. Lorem ipsum dolor si
 As my character said:
 > Lorem Ipsum
 > bla bla bla blubb.
+
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwiener-online.at%2F2016%2F01%2F20%2Fmuppets-animal-verstorben%2F&psig=AOvVaw3-sHAa0EkZ5tujuMkavnCZ&ust=1593594661096000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDPgPGYqeoCFQAAAAAdAAAAABAD"/>
